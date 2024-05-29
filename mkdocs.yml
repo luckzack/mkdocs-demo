@@ -1,6 +1,7 @@
 site_name: 📖 MkDocs Site
 site_url: https://mkdocs.org
-repo_url: https://github.com/mkdocs/mkdocs
+repo_url: https://github.com/luckzack/mkdocs-demo
+repo_name: MkDocs Demo
 #edit_uri: edit/master/docs/
 
 
