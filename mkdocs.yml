@@ -1,0 +1,17 @@
+site_name: 📖 MkDocs Site
+site_url: https://mkdocs.org
+repo_url: https://github.com/mkdocs/mkdocs
+#edit_uri: edit/master/docs/
+
+
+theme: 
+  name: material
+  language: zh
+  highlightjs: true
+
+
+nav:
+  - HOME: 
+      - "index.md"
+      - About: "./home/about.md"
+      - Sponsorship: "./home/sponsorship.md"  
