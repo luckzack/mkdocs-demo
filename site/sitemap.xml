@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://mkdocs.org/</loc>
-         <lastmod>2024-05-29</lastmod>
+         <loc>https://luckzack.github.io/mkdocs-demo/</loc>
+         <lastmod>2024-05-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.org/home/about/</loc>
-         <lastmod>2024-05-29</lastmod>
+         <loc>https://luckzack.github.io/mkdocs-demo/blog/</loc>
+         <lastmod>2024-05-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.org/home/sponsorship/</loc>
-         <lastmod>2024-05-29</lastmod>
+         <loc>https://luckzack.github.io/mkdocs-demo/home/about/</loc>
+         <lastmod>2024-05-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luckzack.github.io/mkdocs-demo/home/sponsorship/</loc>
+         <lastmod>2024-05-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

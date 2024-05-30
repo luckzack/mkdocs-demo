@@ -1,13 +1,15 @@
 site_name: 📖 MkDocs Site
-site_url: https://mkdocs.org
-repo_url: https://github.com/luckzack/mkdocs-demo
+site_url: https://luckzack.github.io/mkdocs-demo/
+
+
+repo_url: https://github.com/luckzack/mkdocs-demo/
 repo_name: MkDocs Demo
 #edit_uri: edit/master/docs/
 
 
 theme: 
   name: material
-  language: zh
+  language: en
   highlightjs: true
 
 
